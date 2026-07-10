@@ -1,5 +1,5 @@
 {
   "minVersion": "1.0.0",
   "message": "A new version of PEEP Plans is available with improved data syncing. Update now to keep your records backed up.",
-  "forceUpdate": false
+  "forceUpdate": true
 }
